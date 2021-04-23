@@ -1,0 +1,3 @@
+training done 1400 epochs
+another 1400 epochs done
+Didnt work because of high imbalance used Random forest
